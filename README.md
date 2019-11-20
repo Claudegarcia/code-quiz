@@ -1,4 +1,5 @@
 # code-quiz
+DEPLOYED LINK:https://claudegarcia.github.io/code-quiz/
 
 auto - generating quiz functionality:
     on page load: user is prompted to input initals
@@ -8,7 +9,7 @@ auto - generating quiz functionality:
     on start game click:
 
         .Assets\generated question.PNG
-        
+
         timer begins, giving user 30 seconds per question
 
         quiz question, potential answers, and answer are stored in array and 
