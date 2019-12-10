@@ -3,12 +3,12 @@ DEPLOYED LINK:https://claudegarcia.github.io/code-quiz/
 
 auto - generating quiz functionality:
     on page load: user is prompted to input initals
-    [initial box](./Assets/initials.PNG)
+    ![UI LAYOUT SCREENSHOT](./Assets/initials.PNG)
     
 
     on start game click:
-[generated question](./Assets/question.PNG)
-        .Assets\generated question.PNG
+![UI LAYOUT SCREENSHOT](./Assets/question.PNG)
+
 
         timer begins, giving user 30 seconds per question
 
