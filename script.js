@@ -177,6 +177,15 @@ function quizLoad() {
                         for (let z = 0; z < highscore.length; z++) {
                             console.log(highscore);
 
+                            const scoreRow = document.createElement("div");
+                            scoreRow.setAttribute("class", "row");
+                            questionTXT.append(scoreRow);
+                
+                            const scoreList = document.createElement("div");
+                            scoreList.innerHTML = "HIGH SCORES"
+                            scoreList.setAttribute("class", "col d-flex align-items-center justify-content-center");
+                            score.append(scoreListEl);
+
                             const scoreRowEl = document.createElement("div");
                             scoreRowEl.setAttribute("class", "row");
                             questionEl.append(scoreRowEl);

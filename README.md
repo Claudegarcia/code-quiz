@@ -3,11 +3,11 @@ DEPLOYED LINK:https://claudegarcia.github.io/code-quiz/
 
 auto - generating quiz functionality:
     on page load: user is prompted to input initals
-
-        .\Assets\initial box.PNG
+    [initial box](./Assets/initials.PNG)
+    
 
     on start game click:
-
+[generated question](./Assets/question.PNG)
         .Assets\generated question.PNG
 
         timer begins, giving user 30 seconds per question
